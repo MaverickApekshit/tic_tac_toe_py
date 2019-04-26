@@ -1,2 +1,2 @@
-# tic_tac_toe_py
+# Tic Tac Toe Game
 Basic Tic Tac Toe game built using python.
